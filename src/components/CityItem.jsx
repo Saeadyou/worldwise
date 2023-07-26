@@ -1,11 +1,5 @@
 import styles from "./CityItem.module.css";
 
-import PropTypes from "prop-types";
-
-CityItem.propTypes = {
-  city: PropTypes.object,
-};
-
 const formatDate = (date) =>
   new Intl.DateTimeFormat("en", {
     day: "numeric",

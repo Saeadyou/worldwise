@@ -3,13 +3,6 @@ import Message from "./Message";
 import styles from "./CityList.module.css";
 import CityItem from "./CityItem";
 
-import PropTypes from "prop-types";
-
-CityList.propTypes = {
-  cities: PropTypes.array,
-  isLoading: PropTypes.bool,
-};
-
 function CityList({ cities, isLoading }) {
   if (isLoading) return <Spinner />;
 

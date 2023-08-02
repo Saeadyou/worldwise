@@ -1,30 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
-    },
-    {
       "cityName": "Berlin",
       "country": "Germany",
       "emoji": "🇩🇪",
@@ -35,66 +11,6 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
-    },
-    {
-      "cityName": "Bremerhaven",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2023-08-01T16:28:46.309Z",
-      "notes": "dfds",
-      "position": {
-        "lat": "53.533778184257834",
-        "lng": "8.602294921875002"
-      },
-      "id": 98443198
-    },
-    {
-      "cityName": "Helechosa de los Montes",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-08-01T16:32:23.743Z",
-      "notes": "qweert",
-      "position": {
-        "lat": "39.29179704377487",
-        "lng": "-4.899902343750001"
-      },
-      "id": 98443199
-    },
-    {
-      "cityName": "Santa Maria del Berrocal",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-08-01T16:35:50.929Z",
-      "notes": "cgn",
-      "position": {
-        "lat": "40.49709237269567",
-        "lng": "-5.427246093750001"
-      },
-      "id": 98443200
-    },
-    {
-      "cityName": "Brazuelo",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-08-01T16:37:48.497Z",
-      "notes": "sdfgh",
-      "position": {
-        "lat": "42.53689200787317",
-        "lng": "-6.207275390625001"
-      },
-      "id": 98443201
-    },
-    {
-      "cityName": "Brazuelo",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2023-08-01T16:38:13.791Z",
-      "notes": "ghgh",
-      "position": {
-        "lat": "42.53689200787317",
-        "lng": "-6.207275390625001"
-      },
-      "id": 98443202
     }
   ]
 }
